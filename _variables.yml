@@ -4,3 +4,7 @@ date: 31/08/2023
 footer: "{{< var title >}}"
 source: https://github.com/lnnrtwttkhn/quarto-presentation
 website: https://lennartwittkuhn.com//quarto-presentation
+issues: https://github.com/lnnrtwttkhn/quarto-presentation/issues
+homepage: https://lennartwittkuhn.com/
+email: "lennart.wittkuhn@uni-hamburg.de"
+mailto: "mailto:{{< var email >}}"

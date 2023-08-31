@@ -15,8 +15,8 @@ author:
     literal: Dr. Lennart Wittkuhn
     # dropping-particle: string
     # non-dropping-particle: string
-  url: https://lennartwittkuhn.com/
-  email: lennart.wittkuhn@uni-hamburg.de
+  url: "{{< var homepage >}}"
+  email: "{{< var email >}}"
   # fax: string
   orcid: 0000-0003-2966-6888
   # note: string
