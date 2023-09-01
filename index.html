@@ -4,7 +4,6 @@
 <script src="site_libs/quarto-html/tabby.min.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
@@ -359,7 +358,7 @@
 <h2>About</h2>
 <div class="fragment">
 <!-- -->
-<h3 id="me" class="anchored">Me</h3>
+<h3 id="me">Me</h3>
 <p><span class="emoji" data-emoji="scientist">🧑‍🔬</span> <strong>Position:</strong> Postdoctoral Researcher &amp; Lab Manager at the <a href="https://www.psy.uni-hamburg.de/en.html">Institute of Psychology</a> at the <a href="https://www.psy.uni-hamburg.de/en/arbeitsbereiche/lern-und-veraenderungsmechanismen.html">University of Hamburg</a></p>
 <p><span class="emoji" data-emoji="mortar_board">🎓</span> <strong>Education:</strong> BSc Psychology &amp; MSc Cognitive Neuroscience (TU Dresden), PhD Cognitive Neuroscience (FU Berlin)</p>
 <p><span class="emoji" data-emoji="microscope">🔬</span> <strong>Research:</strong> I study the role of fast neural memory reactivation (“<a href="https://en.wikipedia.org/wiki/Hippocampal_replay">replay</a>”) in the human brain using fMRI</p>
@@ -368,7 +367,7 @@
 </div>
 <div class="fragment">
 <!-- -->
-<h3 id="this-presentation" class="anchored">This presentation</h3>
+<h3 id="this-presentation">This presentation</h3>
 <p><span class="emoji" data-emoji="computer">💻</span> <strong>Slides:</strong> Slides are publicly available at <a href="https://lennartwittkuhn.com/quarto-presentation">https://lennartwittkuhn.com/quarto-presentation</a></p>
 <p><span class="emoji" data-emoji="package">📦</span> <strong>Software:</strong> Reproducible slides built with <a href="https://quarto.org/">Quarto</a> and deployed to <a href="https://pages.github.com/">GitHub Pages</a> using <a href="https://github.com/features/actions">GitHub Actions</a></p>
 
@@ -384,7 +383,7 @@
 <div class="columns">
 <div class="column" style="width:35%;">
 <p><img data-src="https://avatars.githubusercontent.com/u/42233065?v=4.png"></p>
-<h4 id="dr.-lennart-wittkuhn" class="anchored">Dr.&nbsp;Lennart Wittkuhn</h4>
+<h4 id="dr.-lennart-wittkuhn">Dr.&nbsp;Lennart Wittkuhn</h4>
 <p><i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:lennart.wittkuhn@uni-hamburg.de">lennart.wittkuhn@uni-hamburg.de</a><br> <i class="fa-solid fa-home-user" aria-label="home-user"></i> <a href="https://lennartwittkuhn.com/">https://lennartwittkuhn.com/</a><br> <i class="fa-brands fa-github" aria-label="github"></i> <a href="https://github.com/lnnrtwttkhn">GitHub</a> <i class="fa-brands fa-mastodon" aria-label="mastodon"></i> <a href="https://fediscience.org/@lnnrtwttkhn">Mastodon</a> <i class="fa-brands fa-twitter" aria-label="twitter"></i> <a href="https://twitter.com/lnnrtwttkhn">Twitter</a></p>
 </div><div class="column" style="width:40%;">
 <p><i class="fa-solid fa-image" aria-label="image"></i> <strong>Images:</strong> <a href="https://doi.org/10.5281/zenodo.3332807">Scriberia with The Turing Way community</a> (License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>)</p>
@@ -619,13 +618,6 @@
       tabsets.forEach(function(tabset) {
         const tabby = new Tabby('#' + tabset.id);
       });
-      const icon = "";
-      const anchorJS = new window.AnchorJS();
-      anchorJS.options = {
-        placement: 'right',
-        icon: icon
-      };
-      anchorJS.add('.anchored');
       const isCodeAnnotation = (el) => {
         for (const clz of el.classList) {
           if (clz.startsWith('code-annotation-')) {                     
