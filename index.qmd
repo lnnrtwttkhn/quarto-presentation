@@ -17,17 +17,17 @@ date: today
 
 ### Me
 
-:scientist: **Position:** Postdoctoral Researcher & Lab Manager at the Institute of Psychology at the [University of Hamburg](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/lern-und-veraenderungsmechanismen.html)
+:scientist: **Position:** Postdoctoral Researcher & Lab Manager at the [Institute of Psychology](https://www.psy.uni-hamburg.de/en.html) at the [University of Hamburg](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/lern-und-veraenderungsmechanismen.html)
 
-:mortar_board: **Education:** BSc Psychology & MSc Cognitive Neuroscience (TU Dresden), PhD Psychology (FU Berlin)
+:mortar_board: **Education:** BSc Psychology & MSc Cognitive Neuroscience (TU Dresden), PhD Cognitive Neuroscience (FU Berlin)
 
 :microscope: **Research:** I study the role of fast neural memory reactivation ("[replay](https://en.wikipedia.org/wiki/Hippocampal_replay)") in the human brain using fMRI
 
-:link: **Contact:** You can connect with me via [email](mailto:wittkuhn@mpib-berlin.mpg.de), [Twitter](https://twitter.com/lnnrtwttkhn), [Mastodon](https://fediscience.org/@lnnrtwttkhn),
-[GitHub](https://github.com/lnnrtwttkhn) or
-[LinkedIn](https://www.linkedin.com/in/lennart-wittkuhn-6a079a1a8/)
+:link: **Contact:** You can connect with me via [email]({{< var mailto >}}), [Twitter]({{< var twitter >}}), [Mastodon]({{< var mastodon >}}),
+[GitHub]({{< var github >}}) or
+[LinkedIn]({{< var linkedin >}})
 
-:information_source: **Info:** Find out more about my work on [my website](https://lennartwittkuhn.com/), [Google Scholar](https://scholar.google.de/) and [ORCiD](https://orcid.org/0000-0003-2966-6888)
+:information_source: **Info:** Find out more about my work on [my website]({{< var homepage >}}), [Google Scholar]({{< var scholar >}}) and [ORCiD]({{< var orcid-link >}})
 
 :::
 
