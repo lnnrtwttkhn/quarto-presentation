@@ -33,7 +33,6 @@ author:
 format:
   revealjs:
     theme: [default, custom.scss]
-    anchor-sections: true
     smooth-scroll: true
     html-math-method: katex
     email-obfuscation: none
