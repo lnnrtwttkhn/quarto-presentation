@@ -6,8 +6,8 @@ subtitle: |
   [{{< fa brands internet-explorer >}} Slides]({{< var website >}}) |
   [{{< fa brands github >}} Source]({{< var source >}})
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8300151.svg)](https://doi.org/10.5281/zenodo.8300151)
+  {{< var license-badge >}}
+  {{< var doi-badge >}}
 date: today
 ---
 
