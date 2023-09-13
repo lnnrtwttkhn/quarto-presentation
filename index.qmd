@@ -3,7 +3,7 @@ title: "{{< var title >}}"
 subtitle: |
   {{< var subtitle >}}
   
-  [{{< fa brands internet-explorer >}} Slides]({{< var website >}}) |
+  [{{< fa display >}} Slides]({{< var website >}}) |
   [{{< fa brands github >}} Source]({{< var source >}})
   
   {{< var license-badge >}}
