@@ -55,7 +55,7 @@ date: today
 :::: {.columns}
 ::: {.column width="35%"}
 
-![](https://avatars.githubusercontent.com/u/42233065?v=4)
+![](images/photo_wittkuhn_portrait.jpg)
 
 #### Dr. Lennart Wittkuhn
 
