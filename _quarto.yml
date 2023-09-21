@@ -8,21 +8,17 @@ project:
     navigate: true
 author:
 - id: wittkuhn
-  # number: number
   name:
     given: Lennart
     family: Wittkuhn
     literal: Dr. Lennart Wittkuhn
-    # dropping-particle: string
-    # non-dropping-particle: string
   url: "{{< var homepage >}}"
   email: "{{< var email >}}"
-  # fax: string
-  orcid: 0000-0003-2966-6888
+  orcid: "{{< var orcid >}}"
   # note: string
   # acknowledgements: string
   attributes:
-    corresponding: boolean
+    corresponding: true
     # equal-contributor: boolean
     # deceased: boolean
   # metadata: object
