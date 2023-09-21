@@ -1,9 +1,10 @@
 title: "Title"
 subtitle: "Subtitle"
+project-name: "quarto-presentation"
 footer: "{{< var title >}}"
-source: https://github.com/lnnrtwttkhn/quarto-presentation
-website: https://lennartwittkuhn.com/quarto-presentation
-issues: https://github.com/lnnrtwttkhn/quarto-presentation/issues
+source: "https://github.com/lnnrtwttkhn/{{< var project-name >}}"
+website: "https://lennartwittkuhn.com/{{< var project-name >}}"
+issues: "https://github.com/lnnrtwttkhn/{{< var project-name >}}/issues"
 license-long: "[MIT](https://opensource.org/license/mit/)"
 license-short: "[MIT](https://opensource.org/license/mit/)"
 license-badge: "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)"
