@@ -21,6 +21,7 @@ Just click the green **Use this template** button to get started.
 - [ ] `doi` in `_variables.yml`
 - [ ] `date` in `index.qmd`
 - [ ] information in `README.md`
+- [ ] verify Quarto version in `.github/workflows/publish.yml`
 
 ## License
 
