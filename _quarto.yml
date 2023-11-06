@@ -78,3 +78,4 @@ format:
     metadata-files:
       - _affiliations.yml
       - _variables.yml
+    include-after-body: plausible.html
