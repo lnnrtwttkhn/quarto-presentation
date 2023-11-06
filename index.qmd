@@ -33,7 +33,7 @@ date: today
 
 ### About me
 
-{{< fa user-tie >}} **Postdoctoral Research Data Scientist** in Cognitive Neuroscience at the [Institute of Psychology](https://www.psy.uni-hamburg.de/en.html) at the [University of Hamburg](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/lern-und-veraenderungsmechanismen.html)
+{{< fa user-tie >}} I am a **Postdoctoral Research Data Scientist** in Cognitive Neuroscience at the [Institute of Psychology](https://www.psy.uni-hamburg.de/en.html) at the [University of Hamburg](https://www.psy.uni-hamburg.de/en/arbeitsbereiche/lern-und-veraenderungsmechanismen.html)
 
 {{< fa graduation-cap >}} **BSc Psychology** & **MSc Cognitive Neuroscience** (TU Dresden), **PhD Cognitive Neuroscience** (Max Planck Institute for Human Development)
 
